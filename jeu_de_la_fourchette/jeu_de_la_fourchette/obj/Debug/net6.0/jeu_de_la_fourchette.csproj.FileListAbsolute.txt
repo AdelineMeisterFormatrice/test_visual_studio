@@ -1,0 +1,15 @@
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\bin\Debug\net6.0\jeu_de_la_fourchette.exe
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\bin\Debug\net6.0\jeu_de_la_fourchette.deps.json
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\bin\Debug\net6.0\jeu_de_la_fourchette.runtimeconfig.json
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\bin\Debug\net6.0\jeu_de_la_fourchette.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\bin\Debug\net6.0\jeu_de_la_fourchette.pdb
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\obj\Debug\net6.0\jeu_de_la_fourchette.csproj.AssemblyReference.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\obj\Debug\net6.0\jeu_de_la_fourchette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\obj\Debug\net6.0\jeu_de_la_fourchette.AssemblyInfoInputs.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\obj\Debug\net6.0\jeu_de_la_fourchette.AssemblyInfo.cs
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\obj\Debug\net6.0\jeu_de_la_fourchette.csproj.CoreCompileInputs.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\obj\Debug\net6.0\jeu_de_la_fourchette.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\obj\Debug\net6.0\refint\jeu_de_la_fourchette.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\obj\Debug\net6.0\jeu_de_la_fourchette.pdb
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\obj\Debug\net6.0\jeu_de_la_fourchette.genruntimeconfig.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\jeu_de_la_fourchette\jeu_de_la_fourchette\obj\Debug\net6.0\ref\jeu_de_la_fourchette.dll

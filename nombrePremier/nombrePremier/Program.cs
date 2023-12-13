@@ -45,6 +45,7 @@ namespace nbPremier
 			saisie = Console.ReadLine();
 			nombre = int.Parse(saisie);
 
+			
 			compteur = 0;
 
 			for(int i = 2;i < nombre;i++)

@@ -1,0 +1,15 @@
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\bin\Debug\net6.0\conversion_miles_km.exe
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\bin\Debug\net6.0\conversion_miles_km.deps.json
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\bin\Debug\net6.0\conversion_miles_km.runtimeconfig.json
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\bin\Debug\net6.0\conversion_miles_km.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\bin\Debug\net6.0\conversion_miles_km.pdb
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\obj\Debug\net6.0\conversion_miles_km.csproj.AssemblyReference.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\obj\Debug\net6.0\conversion_miles_km.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\obj\Debug\net6.0\conversion_miles_km.AssemblyInfoInputs.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\obj\Debug\net6.0\conversion_miles_km.AssemblyInfo.cs
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\obj\Debug\net6.0\conversion_miles_km.csproj.CoreCompileInputs.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\obj\Debug\net6.0\conversion_miles_km.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\obj\Debug\net6.0\refint\conversion_miles_km.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\obj\Debug\net6.0\conversion_miles_km.pdb
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\obj\Debug\net6.0\conversion_miles_km.genruntimeconfig.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\conversion_miles_km\conversion_miles_km\obj\Debug\net6.0\ref\conversion_miles_km.dll
