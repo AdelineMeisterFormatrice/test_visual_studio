@@ -1,0 +1,15 @@
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\bin\Debug\net6.0\calcul_moyenne.exe
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\bin\Debug\net6.0\calcul_moyenne.deps.json
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\bin\Debug\net6.0\calcul_moyenne.runtimeconfig.json
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\bin\Debug\net6.0\calcul_moyenne.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\bin\Debug\net6.0\calcul_moyenne.pdb
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\obj\Debug\net6.0\calcul_moyenne.csproj.AssemblyReference.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\obj\Debug\net6.0\calcul_moyenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\obj\Debug\net6.0\calcul_moyenne.AssemblyInfoInputs.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\obj\Debug\net6.0\calcul_moyenne.AssemblyInfo.cs
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\obj\Debug\net6.0\calcul_moyenne.csproj.CoreCompileInputs.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\obj\Debug\net6.0\calcul_moyenne.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\obj\Debug\net6.0\refint\calcul_moyenne.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\obj\Debug\net6.0\calcul_moyenne.pdb
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\obj\Debug\net6.0\calcul_moyenne.genruntimeconfig.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\calcul_moyenne\calcul_moyenne\obj\Debug\net6.0\ref\calcul_moyenne.dll

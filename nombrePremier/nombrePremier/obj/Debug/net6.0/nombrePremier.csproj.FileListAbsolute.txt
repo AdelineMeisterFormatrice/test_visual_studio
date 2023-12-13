@@ -1,0 +1,15 @@
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\bin\Debug\net6.0\nombrePremier.exe
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\bin\Debug\net6.0\nombrePremier.deps.json
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\bin\Debug\net6.0\nombrePremier.runtimeconfig.json
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\bin\Debug\net6.0\nombrePremier.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\bin\Debug\net6.0\nombrePremier.pdb
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\obj\Debug\net6.0\nombrePremier.csproj.AssemblyReference.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\obj\Debug\net6.0\nombrePremier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\obj\Debug\net6.0\nombrePremier.AssemblyInfoInputs.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\obj\Debug\net6.0\nombrePremier.AssemblyInfo.cs
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\obj\Debug\net6.0\nombrePremier.csproj.CoreCompileInputs.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\obj\Debug\net6.0\nombrePremier.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\obj\Debug\net6.0\refint\nombrePremier.dll
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\obj\Debug\net6.0\nombrePremier.pdb
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\obj\Debug\net6.0\nombrePremier.genruntimeconfig.cache
+C:\Users\Adeline\Documents\Git\test_visual_studio\nombrePremier\nombrePremier\obj\Debug\net6.0\ref\nombrePremier.dll
